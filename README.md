@@ -28,10 +28,19 @@ PROCEDURE:
 4. The zener current (lz), and the zener voltage (Vz.) are observed and then noted in the tabular form.
 4. A graph is plotted between zener current (Iz) on y-axis and zener voltage (Vz) on x-axis.
 OBSERVATIONS:
+![WhatsApp Image 2025-11-06 at 14 52 59_56535cf1](https://github.com/user-attachments/assets/12e3fe57-c142-4dc2-8201-e7a1a4c8c94d)
+<img width="424" height="781" alt="Screenshot 2025-11-06 234915" src="https://github.com/user-attachments/assets/d2fadfbd-ecd6-4b05-b43c-094e6c9e9a6a" />
+<img width="441" height="767" alt="Screenshot 2025-11-06 234935" src="https://github.com/user-attachments/assets/7a688dd9-6f2c-49f0-b648-577e03d9603b" />
+
+![WhatsApp Image 2025-11-06 at 14 53 02_0333df1c](https://github.com/user-attachments/assets/4b767012-ce08-41ec-adbb-db6110184418)
+![WhatsApp Image 2025-11-06 at 14 52 58_1ea21d0c](https://github.com/user-attachments/assets/61b944e7-a2b1-49ce-a89a-4d0aef3dd3ec)
+
 
 REGULATION CHARACTERISTICS:
+<img width="826" height="578" alt="Screenshot 2025-11-06 234721" src="https://github.com/user-attachments/assets/071426eb-8c0d-42dd-9c92-93a1f0454544" />
 
 V-I & REGULATION CHARACTERISTICS:
+<img width="772" height="412" alt="Screenshot 2025-11-06 234731" src="https://github.com/user-attachments/assets/9b7f5ba4-cce1-43d2-beb4-abf75111c2f0" />
 
 PRECAUTIONS:
 
